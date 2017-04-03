@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 25 x 19 -->
+<rectangle>
+  <x>0</x>
+  <y>0</y>
+  <width>25</width>
+  <height>1</height>
+</rectangle>
+<rectangle>
+  <x>24</x>
+  <y>0</y>
+  <width>25</width>
+  <height>1</height>
+</rectangle>
+<rectangle>
+  <x>0</x>
+  <y>1</y>
+  <width>1</width>
+  <height>9</height>
+</rectangle>
+<rectangle>
+  <x>0</x>
+  <y>15</y>
+  <width>1</width>
+  <height>9</height>
+</rectangle>
+<rectangle>
+  <x>18</x>
+  <y>1</y>
+  <width>1</width>
+  <height>9</height>
+</rectangle>
+<rectangle>
+  <x>18</x>
+  <y>15</y>
+  <width>1</width>
+  <height>9</height>
+</rectangle>
